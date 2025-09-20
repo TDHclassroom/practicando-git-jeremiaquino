@@ -1,3 +1,3 @@
 # Changelog 
 ## v1.0.0
-- Proyecto inical
+- Proyecto inicial
