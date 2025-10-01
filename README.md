@@ -126,3 +126,4 @@ Cada ejercicio es evaluado automáticamente en base a:
 ---
 
 **¡Feliz aprendizaje con Git! 🎉**
+## Comprobación Finalizada
